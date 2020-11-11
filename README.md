@@ -38,6 +38,9 @@ pip install flask
 ```bash
 pip install -r requirements.txt
 ```
+## Подивитись версію пайтону
+python --version
+
 ## Код Flask програми
 ```python
 from flask import Flask
