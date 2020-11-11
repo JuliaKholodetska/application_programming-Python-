@@ -39,7 +39,12 @@ pip install flask
 pip install -r requirements.txt
 ```
 ## Подивитись версію пайтону
+
 python --version
+
+## Подивитись залежності 
+
+відкрити файл   `requirements.txt`
 
 ## Код Flask програми
 ```python
